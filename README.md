@@ -1,1 +1,2 @@
- 使用GDAL可以做到
+  前端可以輸出 Geospatial PDF/GeoPDF 
+ 方法:利用GDAL
